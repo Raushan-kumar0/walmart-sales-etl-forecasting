@@ -1,0 +1,2 @@
+# Copy to .env and fill in. Never commit .env.
+DATABASE_URL=mysql+pymysql://your_user:your_password@localhost:3306/walmart
