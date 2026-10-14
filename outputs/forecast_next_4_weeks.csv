@@ -1,0 +1,5 @@
+week_date,MA-4 forecast ($M),Seasonal naive forecast ($M),Seasonal + level forecast ($M)
+2012-11-02,46.1,48.7,49.0
+2012-11-09,46.1,48.5,48.8
+2012-11-16,46.1,46.4,46.7
+2012-11-23,46.1,66.6,67.0

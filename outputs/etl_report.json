@@ -1,0 +1,14 @@
+{
+  "train_rows_in": 421570,
+  "rows_missing_key_values_removed": 0,
+  "duplicate_rows_removed": 0,
+  "negative_sales_rows_flagged": 1285,
+  "features_rows_in": 8190,
+  "features_rows_outside_train_period_dropped": 1755,
+  "markdown_values_missing_set_to_0": 21952,
+  "cpi_or_unemployment_missing_in_train_period": 0,
+  "sales_rows_without_features": 0,
+  "sales_rows_without_store_info": 0,
+  "rows_out": 421570,
+  "rows_loaded": 421570
+}

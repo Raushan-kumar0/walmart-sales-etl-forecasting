@@ -1,0 +1,4 @@
+store_type,stores,avg_size_sqft,avg_weekly_sales_per_store,weekly_sales_per_sqft
+A,22,177248.0,1376673.0,7.77
+B,17,101191.0,822995.0,8.13
+C,6,40542.0,472615.0,11.66

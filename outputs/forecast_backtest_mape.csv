@@ -1,0 +1,5 @@
+series,Naive,MA-4,MA-8,MA-12,Seasonal naive,Seasonal + level
+All stores,6.9,7.4,7.3,7.2,3.3,3.2
+Type A,7.2,7.5,7.5,7.2,3.2,3.2
+Type B,7.3,8.3,8.9,8.8,3.7,3.7
+Type C,4.8,3.5,3.6,3.7,4.8,1.8
